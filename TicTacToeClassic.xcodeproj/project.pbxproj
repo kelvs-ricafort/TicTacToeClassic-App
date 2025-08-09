@@ -10,22 +10,9 @@
 		943DA0942E447F3C00E84F52 /* TicTacToeClassic.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TicTacToeClassic.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
-/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		940D3D9B2E449F8F00879949 /* Exceptions for "TicTacToeClassic" folder in "TicTacToeClassic" target */ = {
-			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
-			membershipExceptions = (
-				Info.plist,
-			);
-			target = 943DA0932E447F3C00E84F52 /* TicTacToeClassic */;
-		};
-/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
-
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		943DA0962E447F3C00E84F52 /* TicTacToeClassic */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			exceptions = (
-				940D3D9B2E449F8F00879949 /* Exceptions for "TicTacToeClassic" folder in "TicTacToeClassic" target */,
-			);
 			path = TicTacToeClassic;
 			sourceTree = "<group>";
 		};
